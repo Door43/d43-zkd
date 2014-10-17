@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[zkd:home|Door43 (zkd)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-zkd|d43-zkd repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-zkd/archive/master.zip|d43-zkd.zip]]
+
+**Recent Changes**
+{{changes>ns = zkd}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/zkd|Ethnologue data]]
+
